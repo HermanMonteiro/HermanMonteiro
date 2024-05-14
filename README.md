@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=HermanMonteiro&abbreviated=true)
+
 ### Hi there 👋
 
 <!--
