@@ -46,11 +46,11 @@
 <br/>
 
 <a href="https://github.com/HermanMonteiro" title="Herman Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanMonteiro&theme=dracula&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanMonteiro&theme=dracula&show_icons=true" />
 </a>
 
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-hermanmonteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermanmonteiro/)](https://www.linkedin.com/in/hermanmonteiro)
 [![Gmail Badge](https://img.shields.io/badge/-herman.monteiro@outlook.com-006bed?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:herman.monteiro@outlook.com)](mailto:herman.monteiro@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/hermanMonteiro?label=follow&style=social)](https://github.com/hermanMonteiro)
+[![GitHub](https://img.shields.io/github/followers/HermanMonteiro?label=follow&style=social)](https://github.com/HermanMonteiro)
