@@ -46,7 +46,7 @@
 <br/>
 
 <a href="https://github.com/HermanMonteiro" title="Herman Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanMonteiro&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanMonteiro&theme=dracula&show_icons=true&include_all_commits=true" />
 </a>
 
 ## Where to find me
