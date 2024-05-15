@@ -43,12 +43,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/HermanMonteiro" title="Herman Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HermanMonteiro&theme=dracula&show_icons=true" />
-</a>
-
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-hermanmonteiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermanmonteiro/)](https://www.linkedin.com/in/hermanmonteiro)
